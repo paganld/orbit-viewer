@@ -92,6 +92,10 @@ python app.py
 - [OpenSky Network](https://opensky-network.org/) — Open ADS-B flight data
 - [Celestrak](https://celestrak.org/) — Satellite TLE data
 
+## ⚠️ Data & Privacy
+
+All data used in this project is **public, open-source intelligence (OSINT)** from freely available APIs. No classified, proprietary, or restricted data is included. Satellite TLE data is public-domain. ADS-B flight data is broadcast unencrypted worldwide.
+
 ## Author
 
 **Dwight Pagán** — Data Scientist & AI Engineer
